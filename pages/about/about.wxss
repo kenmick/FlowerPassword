@@ -1,0 +1,7 @@
+image {
+  width: 100%;
+  height: 120rpx;
+}
+button {
+  margin-top: 30rpx
+}

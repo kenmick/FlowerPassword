@@ -1,0 +1,20 @@
+.container {
+  padding: 100rpx 60rpx;
+}
+
+.input-item {
+  margin-top: 20rpx
+}
+
+.input-item
+  input {
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+    margin-top: 10rpx;
+    font-size: 35rpx;
+    padding: 10rpx 15rpx;
+  }
+
+button {
+  margin-top: 30rpx
+}

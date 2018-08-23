@@ -1,0 +1,26 @@
+page{
+  background-color: #F8F8F8;
+  font-size: 40rpx;
+  font-family: -apple-system-font,Helvetica Neue,Helvetica,sans-serif;
+}
+.container {
+  margin: 50rpx 20rpx
+}
+.title {
+  margin-bottom: 10rpx;
+  margin-top: 20rpx;
+  padding-left: 15rpx;
+  border-left: 10rpx solid #2e5e86;
+}
+.strike {
+  text-decoration:line-through;
+}
+.bold {
+  color: black;
+  font-weight: 700;
+}
+.content {
+  margin-top: 10rpx;
+  color: gray;
+  font-size: 35rpx;
+}

@@ -1,0 +1,17 @@
+<view class="container">
+  <image src="../../images/flower_password.png" mode="aspectFit"></image>
+  <view class="title">版本</view>
+  <view class="content">
+    1.0.0
+  </view>
+  <view class="title">Github</view>
+  <view class="content">
+    https://github.com/kenmick
+  </view>
+  <view class="title">邮箱</view>
+  <view class="content">
+    Fl0werPassw0rd@gmail.com
+  </view>
+  <button open-type="contact">联系作者</button>
+  <button open-type="share">分享应用</button>
+</view>

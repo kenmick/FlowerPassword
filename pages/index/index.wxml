@@ -1,0 +1,16 @@
+<view class="container">
+  <view class="input-item">
+    <view>记忆密码</view>
+    <input class="input" placeholder="请输入记忆密码" password="true" bindinput="setKeyword"/>
+  </view>
+  <view class="input-item">
+    <view>区分代号</view>
+    <input class="input" placeholder="请输入区分代号" bindinput="setCode"/>
+  </view>
+  <button type="primary" bindtap="generatePwd">生成密码</button>
+  <view class="input-item">
+    <view>密码</view>
+    <input class="input" disabled="true" password="{{isPassword}}" value="{{pwdValue}}"/>
+  </view>
+  <button bindtap="toggleShowPwd">{{buttonValue}}</button>
+</view>
