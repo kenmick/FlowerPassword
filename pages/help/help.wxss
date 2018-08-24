@@ -10,7 +10,7 @@
 }
 .title {
   font-size: 40rpx;
-  margin-bottom: 10rpx;
+  margin-bottom: 15rpx;
   margin-top: 20rpx;
   padding-left: 15rpx;
   border-left: 10rpx solid #2e5e86;
