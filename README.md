@@ -4,6 +4,8 @@
 1. 基于[HMAC](https://www.wikiwand.com/zh-hans/%E9%87%91%E9%91%B0%E9%9B%9C%E6%B9%8A%E8%A8%8A%E6%81%AF%E9%91%91%E5%88%A5%E7%A2%BC)，前端实时计算，无需后台储存，更加安全。
 2. 提供跨平台支持，包括`Mac`, `Windows`, `iOS`, `Android`, `Chrome`等
 
+![mini_code](https://raw.githubusercontent.com/kenmick/FlowerPassword/master/images/flower_password_mini_code.gif)
+
 # 使用
 ![intro](https://raw.githubusercontent.com/kenmick/FlowerPassword/master/images/intro.gif)
 
