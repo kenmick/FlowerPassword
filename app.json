@@ -8,12 +8,12 @@
     "backgroundTextStyle": "dark",
     "navigationBarBackgroundColor": "#2e5e86",
     "navigationBarTitleText": "花密",
-    "navigationBarTextStyle": "white"
+    "navigationBarTextStyle": "#ffffff"
   },
   "tabBar": {
     "backgroundColor": "#2e5e86",
-    "color": "white",
-    "selectedColor": "white",
+    "color": "#ffffff",
+    "selectedColor": "#ffffff",
     "list": [
       {
         "pagePath": "pages/index/index",
