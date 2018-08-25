@@ -10,8 +10,8 @@
 ![intro](https://raw.githubusercontent.com/kenmick/FlowerPassword/master/images/intro.gif)
 
 # 建议
-1. **记忆密码**设置不要太过简单，比如`123456`，不要使用个人信息，比如生日、手机号等等。防止被社工或者弱口令破解
-2. **区分代号**可以自行混淆，比如`QQ`生成密码，可以将区别代号设置为`QQ123`
+1. **记忆密码**设置不要太过简单，比如`123456`，不要使用个人信息，比如生日、手机号等等。防止被社工或者弱口令破解。
+2. **区分代号**可以自行混淆，比如为`QQ`生成密码，可以将区别代号设置为`QQ123`。
 
 # 用户评价
 ![zhenxiang](https://raw.githubusercontent.com/kenmick/FlowerPassword/master/images/zhenxiang.gif)
